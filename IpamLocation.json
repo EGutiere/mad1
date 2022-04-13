@@ -1,26 +1,26 @@
 [ 
   {
     "key":"0028 - Sophos",
-    "latitude":"-25.45119",
-    "longitude":"-49.22848",
-    "name":"Madero Burger Jardim das AmÈricas"
+    "latitude":-25.45119,
+    "longitude":-49.22848,
+    "name":"Madero Burger Jardim das Am√©ricas"
   },
   {
     "key":"0024 - Sophos",
-    "latitude":"-25.42256",
-    "longitude":"-49.27031",
+    "latitude":-25.42256,
+    "longitude":-49.27031,
     "name":"Madero Burger Shopping Mueller"
   },
   {
     "key":"0272 - Sophos",
-    "latitude":"-25.45222",
-    "longitude":"-49.36117",
+    "latitude":-25.45222,
+    "longitude":-49.36117,
     "name":"Madero Container JK MALL"
   },
   {
     "key":"J043 - Sophos",
-    "latitude":"-23.56081",
-    "longitude":"-46.67110",
+    "latitude":-23.56081,
+    "longitude":-46.67110,
     "name":"Jeronimo Burger Oscar Freire"
   },
   {
@@ -39,7 +39,7 @@
     "key":"J078 - Sophos",
     "latitude":"-19.82149",
     "longitude":"-43.94726",
-    "name":"Jeronimo Burger Shopping EstaÁ„o BH"
+    "name":"Jeronimo Burger Shopping Esta√ß√£o BH"
   },
   {
     "key":"0025 - Sophos",
@@ -63,25 +63,25 @@
     "key":"0210 - Sophos",
     "latitude":"-21.18050",
     "longitude":"-47.80813",
-    "name":"Madero Burger Shopping Santa ⁄rsula"
+    "name":"Madero Burger Shopping Santa √örsula"
   },
   {
     "key":"0207 - Sophos",
     "latitude":"-16.62755",
     "longitude":"-49.27818",
-    "name":"Madero Burger Shopping Passeio das ¡guas"
+    "name":"Madero Burger Shopping Passeio das √Åguas"
   },
   {
     "key":"0006 - Sophos",
     "latitude":"-25.438387",
     "longitude":"-49.266746",
-    "name":"Madero SteakHouse Shopping EstaÁ„o"
+    "name":"Madero SteakHouse Shopping Esta√ß√£o"
   },
   {
     "key":"J060 - Sophos",
     "latitude":"-22.90088",
     "longitude":"-43.11310",
-    "name":"Madero Burger IcaraÌ"
+    "name":"Madero Burger Icara√≠"
   },
   {
     "key":"0004 - Sophos",
@@ -153,7 +153,7 @@
     "key":"0217 - Sophos",
     "latitude":"-25.52289",
     "longitude":"-54.56213",
-    "name":"Madero SteakHouse Foz do IguaÁu"
+    "name":"Madero SteakHouse Foz do Igua√ßu"
   },
   {
     "key":"0169 - Sophos",
@@ -177,7 +177,7 @@
     "key":"0233 - Sophos",
     "latitude":"-23.34222",
     "longitude":"-51.18535",
-    "name":"Madero SteakHouse Shopping CatuaÌ Londrina"
+    "name":"Madero SteakHouse Shopping Catua√≠ Londrina"
   },
   {
     "key":"0263 - Sophos",
@@ -231,7 +231,7 @@
     "key":"J008 - Sophos",
     "latitude":"-25.43811",
     "longitude":"-49.26656",
-    "name":"Jeronimo Burger Shopping EstaÁ„o"
+    "name":"Jeronimo Burger Shopping Esta√ß√£o"
   },
   {
     "key":"H004 - Sophos",
@@ -249,7 +249,7 @@
     "key":"0016 - Sophos",
     "latitude":"-27.10613",
     "longitude":"-52.61176",
-    "name":"Madero Container ChapecÛ"
+    "name":"Madero Container Chapec√≥"
   },
   {
     "key":"0180 - Sophos",
@@ -261,13 +261,13 @@
     "key":"0181 - Sophos",
     "latitude":"-26.91239",
     "longitude":"-48.65383",
-    "name":"Madero Container ItajaÌ -SC"
+    "name":"Madero Container Itaja√≠ -SC"
   },
   {
     "key":"0182 - Sophos",
     "latitude":"-29.00365",
     "longitude":"-49.55951",
-    "name":"Madero Container Ararangu·"
+    "name":"Madero Container Ararangu√°"
   },
   {
     "key":"0183 - Sophos",
@@ -309,7 +309,7 @@
     "key":"J033 - Sophos",
     "latitude":"-26.99269",
     "longitude":"-48.64529",
-    "name":"Jeronimo Burger Shopping Balne·rio "
+    "name":"Jeronimo Burger Shopping Balne√°rio "
   },
   {
     "key":"J036 - Sophos",
@@ -333,7 +333,7 @@
     "key":"0300 - Sophos",
     "latitude":"-26.99253",
     "longitude":"-48.6291382",
-    "name":"Madero SteakHouse Shopping Balner·rio -SC"
+    "name":"Madero SteakHouse Shopping Balner√°rio -SC"
   },
   {
     "key":"0287 - Sophos",
@@ -345,7 +345,7 @@
     "key":"0299 - Sophos",
     "latitude":"-26.99611",
     "longitude":"-48.62651",
-    "name":"Madero SteakHouse Atl‚ntica - BC"
+    "name":"Madero SteakHouse Atl√¢ntica - BC"
   },
   {
     "key":"0195 - Sophos",
@@ -405,13 +405,13 @@
     "key":"0199 - Sophos",
     "latitude":"-29.99582",
     "longitude":"-51.18779",
-    "name":"Madero Container Boulevard LaÁador"
+    "name":"Madero Container Boulevard La√ßador"
   },
   {
     "key":"0163 - Sophos",
     "latitude":"-23.20130",
     "longitude":"-45.90241",
-    "name":"Madero Container S„o JosÈ dos Campos"
+    "name":"Madero Container S√£o Jos√© dos Campos"
   },
   {
     "key":"0165 - Sophos",
@@ -423,13 +423,13 @@
     "key":"0171 - Sophos",
     "latitude":"-23.50329",
     "longitude":"-46.83356",
-    "name":"Madero SteakHouse Shopping TamborÈ"
+    "name":"Madero SteakHouse Shopping Tambor√©"
   },
   {
     "key":"0172 - Sophos",
     "latitude":"-23.56352",
     "longitude":"-46.65269",
-    "name":"Madero SteakHouse Cidade S„o Paulo"
+    "name":"Madero SteakHouse Cidade S√£o Paulo"
   },
   {
     "key":"0200 - Sophos",
@@ -585,7 +585,7 @@
     "key":"0208 - Sophos",
     "latitude":"-21.21198",
     "longitude":"-47.81588",
-    "name":"Madero SteakHouse Ribeir„o Preto"
+    "name":"Madero SteakHouse Ribeir√£o Preto"
   },
   {
     "key":"0209 - Sophos",
@@ -609,7 +609,7 @@
     "key":"0280 - Sophos",
     "latitude":"-1.38525",
     "longitude":"-48.46509",
-    "name":"Madero SteakHouse Shopping Gr„o-Par·"
+    "name":"Madero SteakHouse Shopping Gr√£o-Par√°"
   },
   {
     "key":"0230 - Sophos",
@@ -621,7 +621,7 @@
     "key":"0281 - Sophos",
     "latitude":"-1.44533",
     "longitude":"-48.48920",
-    "name":"Madero SteakHouse Shopping Boulevard BelÈm"
+    "name":"Madero SteakHouse Shopping Boulevard Bel√©m"
   },
   {
     "key":"0236 - Sophos",
@@ -681,7 +681,7 @@
     "key":"0213 - Sophos",
     "latitude":"-23.66953",
     "longitude":"-46.53864",
-    "name":"Madero Container Santo AndrÈ"
+    "name":"Madero Container Santo Andr√©"
   },
   {
     "key":"0214 - Sophos",
@@ -699,7 +699,7 @@
     "key":"0215 - Sophos",
     "latitude":"-23.62566",
     "longitude":"-46.5801609",
-    "name":"Madero SteakHouse S„o Caetano"
+    "name":"Madero SteakHouse S√£o Caetano"
   },
   {
     "key":"0216 - Sophos",
@@ -765,7 +765,7 @@
     "key":"0289 - Sophos",
     "latitude":"-15.58969",
     "longitude":"-56.12079",
-    "name":"Madero SteakHouse Shopping EstaÁ„o Cuiab·"
+    "name":"Madero SteakHouse Shopping Esta√ß√£o Cuiab√°"
   },
   {
     "key":"0242 - Sophos",
@@ -777,7 +777,7 @@
     "key":"J050 - Sophos",
     "latitude":"-18.90939",
     "longitude":"-48.26035",
-    "name":"Jeronimo Burger Shopping Uberl‚ndia"
+    "name":"Jeronimo Burger Shopping Uberl√¢ndia"
   },
   {
     "key":"0245 - Sophos",
@@ -813,7 +813,7 @@
     "key":"0294 - Sophos",
     "latitude":"-23.54360",
     "longitude":"-46.76306",
-    "name":"Madero SteakHouse Uni„o Osasco"
+    "name":"Madero SteakHouse Uni√£o Osasco"
   },
   {
     "key":"0249 - Sophos",
@@ -831,25 +831,25 @@
     "key":"0251 - Sophos",
     "latitude":"-23.40523",
     "longitude":"-47.30595",
-    "name":"Madero Container It˙"
+    "name":"Madero Container It√∫"
   },
   {
     "key":"0252 - Sophos",
     "latitude":"-23.60848",
     "longitude":"-46.75369",
-    "name":"Madero Container Tabo„o da Serra"
+    "name":"Madero Container Tabo√£o da Serra"
   },
   {
     "key":"0271 - Sophos",
     "latitude":"-18.90939",
     "longitude":"-48.26035",
-    "name":"Madero SteakHouse Shopping Uberl‚ndia"
+    "name":"Madero SteakHouse Shopping Uberl√¢ndia"
   },
   {
     "key":"0253 - Sophos",
     "latitude":"-23.19966",
     "longitude":"-46.89046",
-    "name":"Madero SteakHouse JundiaÌ"
+    "name":"Madero SteakHouse Jundia√≠"
   },
   {
     "key":"0254 - Sophos",
@@ -921,7 +921,7 @@
     "key":"0288 - Sophos",
     "latitude":"-23.60245",
     "longitude":"-46.68211",
-    "name":"Madero Container InÍs Pereira"
+    "name":"Madero Container In√™s Pereira"
   },
   {
     "key":"0292 - Sophos",
@@ -951,7 +951,7 @@
     "key":"0296 - Sophos",
     "latitude":"-23.17608",
     "longitude":"-46.90892",
-    "name":"Madero Container JundiaÌ"
+    "name":"Madero Container Jundia√≠"
   },
   {
     "key":"0305 - Sophos",
@@ -1023,7 +1023,7 @@
     "key":"J010 - Sophos",
     "latitude":"-23.66915",
     "longitude":"-46.53392",
-    "name":"Jeronimo Burger ABC Santo AndrÈ"
+    "name":"Jeronimo Burger ABC Santo Andr√©"
   },
   {
     "key":"J012 - Sophos",
@@ -1053,7 +1053,7 @@
     "key":"J019 - Sophos",
     "latitude":"-23.54171",
     "longitude":"-46.57662",
-    "name":"Jeronimo Burger Shopping TatuapÈ"
+    "name":"Jeronimo Burger Shopping Tatuap√©"
   },
   {
     "key":"J023 - Sophos",
@@ -1065,7 +1065,7 @@
     "key":"0273 - Sophos",
     "latitude":"-15.78665",
     "longitude":"-47.89055",
-    "name":"Madero SteakHouse BrasÌlia ID"
+    "name":"Madero SteakHouse Bras√≠lia ID"
   },
   {
     "key":"0274 - Sophos",
@@ -1083,7 +1083,7 @@
     "key":"0282 - Sophos",
     "latitude":"-15.71874",
     "longitude":"-47.88174",
-    "name":"Madero SteakHouse Iguatemi BrasÌlia"
+    "name":"Madero SteakHouse Iguatemi Bras√≠lia"
   },
   {
     "key":"0276 - Sophos",
@@ -1119,7 +1119,7 @@
     "key":"J031 - Sophos",
     "latitude":"-23.21546",
     "longitude":"-45.90258",
-    "name":"Jeronimo Track S„o JosÈ dos Campos"
+    "name":"Jeronimo Track S√£o Jos√© dos Campos"
   },
   {
     "key":"J032 - Sophos",
@@ -1131,7 +1131,7 @@
     "key":"J034 - Sophos",
     "latitude":"-23,96590",
     "longitude":"-46,34656",
-    "name":"Jeronimo Track Bar„o de Penedo"
+    "name":"Jeronimo Track Bar√£o de Penedo"
   },
   {
     "key":"J037 - Sophos",
@@ -1149,7 +1149,7 @@
     "key":"J040 - Sophos",
     "latitude":"-23,50329",
     "longitude":"-46,83356",
-    "name":"Jeronimo Burger Shopping TamborÈ"
+    "name":"Jeronimo Burger Shopping Tambor√©"
   },
   {
     "key":"J044 - Sophos",
@@ -1167,7 +1167,7 @@
     "key":"J048 - Sophos",
     "latitude":"-23,60255",
     "longitude":"-46,65798",
-    "name":"Jeronimo Burger AÁoce"
+    "name":"Jeronimo Burger A√ßoce"
   },
   {
     "key":"J049 - Sophos",
@@ -1191,7 +1191,7 @@
     "key":"0164 - Sophos",
     "latitude":"-22.87609",
     "longitude":"-43.27187",
-    "name":"Madero SteakHouse Shopping Nova AmÈrica"
+    "name":"Madero SteakHouse Shopping Nova Am√©rica"
   },
   {
     "key":"J053 - Sophos",
@@ -1203,7 +1203,7 @@
     "key":"J055 - Sophos",
     "latitude":"-23,59732",
     "longitude":"-46,67973",
-    "name":"Jeronimo Burger Quat·"
+    "name":"Jeronimo Burger Quat√°"
   },
   {
     "key":"J058 - Sophos",
@@ -1227,7 +1227,7 @@
     "key":"J061 - Sophos",
     "latitude":"-23,98272",
     "longitude":"-46,23182",
-    "name":"Jeronimo Track Guaruj·"
+    "name":"Jeronimo Track Guaruj√°"
   },
   {
     "key":"J062 - Sophos",
@@ -1359,7 +1359,7 @@
     "key":"0318 - Sophos",
     "latitude":"-22.62372",
     "longitude":"-43.92166",
-    "name":"Madero Container Posto Mam„o Pirai"
+    "name":"Madero Container Posto Mam√£o Pirai"
   },
   {
     "key":"J007 - Sophos",
@@ -1371,7 +1371,7 @@
     "key":"J030 - Sophos",
     "latitude":"-18.91711",
     "longitude":"-48.26548",
-    "name":"Jeronimo Track Rondon Uberlandia (CafÈ)"
+    "name":"Jeronimo Track Rondon Uberlandia (Caf√©)"
   },
   {
     "key":"J035 - Sophos",
@@ -1383,7 +1383,7 @@
     "key":"J056 - Sophos",
     "latitude":"-23.01504",
     "longitude":"-43.30504",
-    "name":"Jeronimo Burger Praia PepÍ"
+    "name":"Jeronimo Burger Praia Pep√™"
   },
   {
     "key":"J039 - Sophos",
@@ -1413,7 +1413,7 @@
     "key":"J073 - Sophos",
     "latitude":"-23.42754",
     "longitude":"-51.93719",
-    "name":"Jeronimo Track Maring·"
+    "name":"Jeronimo Track Maring√°"
   },
   {
     "key":"0186 - Sophos",
@@ -1437,13 +1437,13 @@
     "key":"0325 - Sophos",
     "latitude":"-28.68322",
     "longitude":"-49.37885",
-    "name":"Madero Container Crici˙ma"
+    "name":"Madero Container Crici√∫ma"
   },
   {
     "key":"J076 - Sophos",
     "latitude":"-28.6834177",
     "longitude":"-49.3789816",
-    "name":"Jeronimo Track Crici˙ma"
+    "name":"Jeronimo Track Crici√∫ma"
   },
   {
     "key":"J074 - Sophos",
@@ -1521,7 +1521,7 @@
     "key":"J088 - Sophos",
     "latitude":"-21.226532",
     "longitude":"-50.4376573",
-    "name":"Jeronimo Track AraÁatuba"
+    "name":"Jeronimo Track Ara√ßatuba"
   },
   {
     "key":"0328 - Sophos",
@@ -1545,7 +1545,7 @@
     "key":"J086 - Sophos",
     "latitude":"-20.8226046",
     "longitude":"-49.3854272",
-    "name":"Jeronimo JK Track S„o JosÈ Rio Preto"
+    "name":"Jeronimo JK Track S√£o Jos√© Rio Preto"
   },
   {
     "key":"J069 - Sophos",
