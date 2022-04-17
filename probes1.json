@@ -124,5 +124,131 @@
     "latitude": -25.44616,
     "longitude": -49.29510,
     "name": "Madero SteakHouse Batel"
+  },
+  {
+    "key": "0037",
+    "latitude": -25.43512,
+    "longitude": -49.28612,
+    "name": "Jeronimo Burger Pc da Espanha"
+  },
+  {
+    "key": "J071",
+    "latitude": -24.9509875,
+    "longitude": -53.4253648,
+    "name": "Jeronimo Track Cascavel"
+  },
+  {
+    "key": "0047",
+    "latitude": -25.43424,
+    "longitude": -50.05335,
+    "name": "Madero Container Palmeira"
+  },
+  {
+    "key": "0074",
+    "latitude": -25.35128,
+    "longitude": -51.45798,
+    "name": "Madero Container Guarapuava"
+  },
+  {
+    "key": "0217",
+    "latitude": -25.52289,
+    "longitude": -54.56213,
+    "name": "Madero SteakHouse Foz do Iguaçu"
+  },
+  {
+    "key": "0169",
+    "latitude": -24.95064,
+    "longitude": -53.47673,
+    "name": "Madero SteakHouse JL Shopping Cascavel"
+  },
+  {
+    "key": "0038",
+    "latitude": -25.09489,
+    "longitude": -50.15205,
+    "name": "Madero SteakHouse Ponta Grossa"
+  },
+  {
+    "key": "0232",
+    "latitude": -23.42017,
+    "longitude": -51.96955,
+    "name": "Madero SteakHouse Shopping Catuai Maringa"
+  },
+  {
+    "key": "0233",
+    "latitude": -23.34222,
+    "longitude": -51.18535,
+    "name": "Madero SteakHouse Shopping Catuaí Londrina"
+  },
+  {
+    "key": "0263",
+    "latitude": -25.44681,
+    "longitude": -49.50756,
+    "name": "Madero Container Campo Largo"
+  },
+  {
+    "key": "0278",
+    "latitude": -23.78011,
+    "longitude": -53.30135,
+    "name": "Madero Container Umuarama"
+  },
+  {
+    "key": "J026",
+    "latitude": -25.09368,
+    "longitude": -50.15906,
+    "name": "Jeronimo Track Ponta Grossa"
+  },
+  {
+    "key": "0285",
+    "latitude": -25.47775,
+    "longitude": -49.29096,
+    "name": "Madero SteakHouse Shopping Palladium Curitiba"
+  },
+  {
+    "key": "0316",
+    "latitude": -25.41032,
+    "longitude": -49.25311,
+    "name": "Madero SteakHouse Cabral"
+  },
+  {
+    "key": "J045",
+    "latitude": -23.33085,
+    "longitude": -51.17773,
+    "name": "Jeronimo Track Londrina"
+  },
+  {
+    "key": "J028",
+    "latitude": -25.53485,
+    "longitude": -49.18617,
+    "name": "Jeronimo Burger Aeroporto Afonso Pena"
+  },
+  {
+    "key": "J011",
+    "latitude": -25.4409909,
+    "longitude": -49.2774894,
+    "name": "Jeronimo Burger Shopping Curitiba"
+  },
+  {
+    "key": "J008",
+    "latitude": -25.43811,
+    "longitude": -49.26656,
+    "name": "Jeronimo Burger Shopping Estação"
+  },
+  {
+    "key": "H004",
+    "latitude": -25.53485,
+    "longitude": -49.18617,
+    "name": "Madero SteakHouse Afonso Pena"
+  },
+  {
+    "key": "H003",
+    "latitude": -25.47775,
+    "longitude": -49.29096,
+    "name": "Jeronimo Burger Shopping Palladium"
+  },
+  {
+    "key": "0016",
+    "latitude": -27.10613,
+    "longitude": -52.61176,
+    "name": "Madero Container Chapecó"
   }
 ]
