@@ -250,5 +250,263 @@
     "latitude": -27.10613,
     "longitude": -52.61176,
     "name": "Madero Container Chapecó"
+  },
+  {
+    "key": "0180",
+    "latitude": -26.63700,
+    "longitude": -48.69775,
+    "name": "Madero Container Barra Velha -SC"
+  },
+  {
+    "key": "0181",
+    "latitude": -26.91239,
+    "longitude": -48.65383,
+    "name": "Madero Container Itajaí -SC"
+  },
+  {
+    "key": "0182",
+    "latitude": -29.00365,
+    "longitude": -49.55951,
+    "name": "Madero Container Araranguá"
+  },
+  {
+    "key": "0183",
+    "latitude": -27.61155,
+    "longitude": -48.64029,
+    "name": "Madero SteakHouse Shopping Continente"
+  },
+  {
+    "key": "0317",
+    "latitude": -26.25379,
+    "longitude": -48.853394,
+    "name": "Madero SteakHouse Shopping Mueller Joinville"
+  },
+  {
+    "key": "0184",
+    "latitude": -26.25379,
+    "longitude": -48.85339,
+    "name": "Madero SteakHouse Shopping Garten"
+  },
+  {
+    "key": "0264",
+    "latitude": -27.58492,
+    "longitude": -48.54501,
+    "name": "Madero SteakHouse Shopping Beira Mar Floripa"
+  },
+  {
+    "key": "0298",
+    "latitude": -27.08926,
+    "longitude": -48.61325,
+    "name": "Madero Container Itapema"
+  },
+  {
+    "key": "J022",
+    "latitude": -27.58975,
+    "longitude": -48.51528,
+    "name": "Jeronimo Burger Shopping Iguatemi Floripa"
+  },
+  {
+    "key": "J033",
+    "latitude": -26.99269,
+    "longitude": -48.64529,
+    "name": "Jeronimo Burger Shopping Balneário "
+  },
+  {
+    "key": "J036",
+    "latitude": -26.99253,
+    "longitude": -48.62914,
+    "name": "Jeronimo Burger Millenium"
+  },
+  {
+    "key": "0283",
+    "latitude": -26.44184,
+    "longitude": -48.79946,
+    "name": "Madero Container Sinuelo"
+  },
+  {
+    "key": "J072",
+    "latitude": -26.28977,
+    "longitude": -48.84361,
+    "name": "Jeronimo Track Joinville"
+  },
+  {
+    "key": "0300",
+    "latitude": -26.99253,
+    "longitude": -48.6291382,
+    "name": "Madero SteakHouse Shopping Balnerário -SC"
+  },
+  {
+    "key": "0287",
+    "latitude": -27.52555,
+    "longitude": -48.51356,
+    "name": "Madero Container Primavera Garden"
+  },
+  {
+    "key": "0299",
+    "latitude": -26.99611,
+    "longitude": -48.62651,
+    "name": "Madero SteakHouse Atlântica - BC"
+  },
+  {
+    "key": "0195",
+    "latitude": -29.99743,
+    "longitude": -51.13192,
+    "name": "Madero Container Assis Brasil"
+  },
+  {
+    "key": "J020",
+    "latitude": -30.03285,
+    "longitude": -51.1952677,
+    "name": "Jeronimo Burger Bela Vista"
+  },
+  {
+    "key": "0297",
+    "latitude": -26.92066,
+    "longitude": -49.06993,
+    "name": "Madero SteakHouse Blumenau"
+  },
+  {
+    "key": "0196",
+    "latitude": -30.05932,
+    "longitude": -51.17909,
+    "name": "Madero Container PUC POA"
+  },
+  {
+    "key": "J017",
+    "latitude": -30.02387,
+    "longitude": -51.1623311,
+    "name": "Jeronimo Burger Shopping Iguatemi Porto Alegre"
+  },
+  {
+    "key": "0197",
+    "latitude": -30.02211,
+    "longitude": -51.17281,
+    "name": "Madero Container Anita"
+  },
+  {
+    "key": "0205",
+    "latitude": -30.05001,
+    "longitude": -51.2288272,
+    "name": "Madero SteakHouse Praia de Belas"
+  },
+  {
+    "key": "0204",
+    "latitude": -28.26357,
+    "longitude": -52.40181,
+    "name": "Madero Container Passo Fundo"
+  },
+  {
+    "key": "0198",
+    "latitude": -29.92398,
+    "longitude": -51.17747,
+    "name": "Madero Container Canoas"
+  },
+  {
+    "key": "0199",
+    "latitude": -29.99582,
+    "longitude": -51.18779,
+    "name": "Madero Container Boulevard Laçador"
+  },
+  {
+    "key": "0163",
+    "latitude": -23.20130,
+    "longitude": -45.90241,
+    "name": "Madero Container São José dos Campos"
+  },
+  {
+    "key": "0165",
+    "latitude": -23.99808,
+    "longitude": -46.40684,
+    "name": "Madero Container Litoral Plaza Shopping"
+  },
+  {
+    "key": "0171",
+    "latitude": -23.50329,
+    "longitude": -46.83356,
+    "name": "Madero SteakHouse Shopping Tamboré"
+  },
+  {
+    "key": "0172",
+    "latitude": -23.56352,
+    "longitude": -46.65269,
+    "name": "Madero SteakHouse Cidade São Paulo"
+  },
+  {
+    "key": "0200",
+    "latitude": -29.68005,
+    "longitude": -51.12245,
+    "name": "Madero Container Novo Hamburgo"
+  },
+  {
+    "key": "0202",
+    "latitude": -29.57732,
+    "longitude": -50.7919625,
+    "name": "Madero Container Alles Blau"
+  },
+  {
+    "key": "0166",
+    "latitude": -29.16340,
+    "longitude": -51.17967,
+    "name": "Madero Container Caxias do Sul"
+  },
+  {
+    "key": "0168",
+    "latitude": -19.97557,
+    "longitude": -43.94642,
+    "name": "Madero SteakHouse BH Shopping"
+  },
+  {
+    "key": "0206",
+    "latitude": -16.71043,
+    "longitude": -49.22287,
+    "name": "Jeronimo Burger Flamboyant"
+  },
+  {
+    "key": "J041",
+    "latitude": -23.69251,
+    "longitude": -46.55088,
+    "name": "Madero SteakHouse Shopping Metropole"
+  },
+  {
+    "key": "J070",
+    "latitude": -15.69567,
+    "longitude": -47.87308,
+    "name": "Jeronimo Track Taquari"
+  },
+  {
+    "key": "0225",
+    "latitude": -16.71043,
+    "longitude": -49.22287,
+    "name": "Madero SteakHouse Flamboyant"
+  },
+  {
+    "key": "0228",
+    "latitude": -20.45766,
+    "longitude": -54.58791,
+    "name": "Madero SteakHouse Shopping Campo Grande"
+  },
+  {
+    "key": "0227",
+    "latitude": -10.18402,
+    "longitude": -48.32561,
+    "name": "Madero Container Palmas"
+  },
+  {
+    "key": "0173",
+    "latitude": -23.62109,
+    "longitude": -46.69924,
+    "name": "Madero SteakHouse Market Place"
+  },
+  {
+    "key": "0174",
+    "latitude": -22.86426,
+    "longitude": -47.02150,
+    "name": "Madero SteakHouse Galleria Campinas"
+  },
+  {
+    "key": "0175",
+    "latitude": -23.62004,
+    "longitude": -46.55540,
+    "name": "Madero Container Nazaret"
   }
 ]
