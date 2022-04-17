@@ -124,47 +124,5 @@
     "latitude": -22.99004,
     "longitude": -43.36616,
     "name": "Madero Container Aerotown"
-  },
-  {
-    "key": "0302",
-    "latitude": -22.89629,
-    "longitude": -43.12361,
-    "name": "Madero SteakHouse Plaza Niteroi"
-  },
-  {
-    "key": "0304",
-    "latitude": -22.91119,
-    "longitude": -43.16825,
-    "name": "Madero SteakHouse Santos Dumont"
-  },
-  {
-    "key": "0313",
-    "latitude": -22.93109,
-    "longitude": -43.24230,
-    "name": "Madero SteakHouse Shopping Tijuca"
-  },
-  {
-    "key": "0318",
-    "latitude": -22.62372,
-    "longitude": -43.92166,
-    "name": "Madero Container Posto Mamão Pirai"
-  },
-  {
-    "key": "J007",
-    "latitude": -23.00021,
-    "longitude": -43.41578,
-    "name": "Jeronimo Burger Barra Shopping"
-  },
-  {
-    "key": "J030",
-    "latitude": -18.91711,
-    "longitude": -48.26548,
-    "name": "Jeronimo Track Rondon Uberlandia (Café)"
-  },
-  {
-    "key": "J035",
-    "latitude": -22.84889,
-    "longitude": -43.32143,
-    "name": "Jeronimo Burger Shopping Nova America"
   }
 ]
