@@ -21,13 +21,13 @@
     "key": "0171",
     "latitude": -23.50329,
     "longitude": -46.83356,
-    "name": "Madero SteakHouse Shopping TamborÈ"
+    "name": "Madero SteakHouse Shopping Tambor√©"
   },
   {
     "key": "0172",
     "latitude": -23.56352,
     "longitude": -46.65269,
-    "name": "Madero SteakHouse Cidade S„o Paulo"
+    "name": "Madero SteakHouse Cidade S√£o Paulo"
   },
   {
     "key": "J041",
@@ -111,13 +111,13 @@
     "key": "0213",
     "latitude": -23.66953,
     "longitude": -46.53864,
-    "name": "Madero Container Santo AndrÈ"
+    "name": "Madero Container Santo Andr√©"
   },
   {
     "key": "0215",
     "latitude": -23.62566,
     "longitude": -46.5801609,
-    "name": "Madero SteakHouse S„o Caetano"
+    "name": "Madero SteakHouse S√£o Caetano"
   },
   {
     "key": "0219",
@@ -147,7 +147,7 @@
     "key": "0294",
     "latitude": -23.54360,
     "longitude": -46.76306,
-    "name": "Madero SteakHouse Uni„o Osasco"
+    "name": "Madero SteakHouse Uni√£o Osasco"
   },
   {
     "key": "0250",
@@ -159,13 +159,13 @@
     "key": "0252",
     "latitude": -23.60848,
     "longitude": -46.75369,
-    "name": "Madero Container Tabo„o da Serra"
+    "name": "Madero Container Tabo√£o da Serra"
   },
   {
     "key": "0253",
     "latitude": -23.19966,
     "longitude": -46.89046,
-    "name": "Madero SteakHouse JundiaÌ"
+    "name": "Madero SteakHouse Jundia√≠"
   },
   {
     "key": "0254",
@@ -195,7 +195,7 @@
     "key": "0288",
     "latitude": -23.60245,
     "longitude": -46.68211,
-    "name": "Madero Container InÍs Pereira"
+    "name": "Madero Container In√™s Pereira"
   },
   {
     "key": "0292",
@@ -213,7 +213,7 @@
     "key": "0296",
     "latitude": -23.17608,
     "longitude": -46.90892,
-    "name": "Madero Container JundiaÌ"
+    "name": "Madero Container Jundia√≠"
   },
   {
     "key": "0305",
@@ -261,7 +261,7 @@
     "key": "J010",
     "latitude": -23.66915,
     "longitude": -46.53392,
-    "name": "Jeronimo Burger ABC Santo AndrÈ"
+    "name": "Jeronimo Burger ABC Santo Andr√©"
   },
   {
     "key": "J012",
@@ -285,7 +285,7 @@
     "key": "J019",
     "latitude": -23.54171,
     "longitude": -46.57662,
-    "name": "Jeronimo Burger Shopping TatuapÈ"
+    "name": "Jeronimo Burger Shopping Tatuap√©"
   },
   {
     "key": "J023",
@@ -315,7 +315,7 @@
     "key": "J040",
     "latitude": -23.50329,
     "longitude": -46.83356,
-    "name": "Jeronimo Burger Shopping TamborÈ"
+    "name": "Jeronimo Burger Shopping Tambor√©"
   },
   {
     "key": "J044",
@@ -327,7 +327,7 @@
     "key": "J048",
     "latitude": -23.60255,
     "longitude": -46.65798,
-    "name": "Jeronimo Burger AÁoce"
+    "name": "Jeronimo Burger A√ßoce"
   },
   {
     "key": "J049",
@@ -357,7 +357,7 @@
     "key": "J055",
     "latitude": -23.59732,
     "longitude": -46.67973,
-    "name": "Jeronimo Burger Quat·"
+    "name": "Jeronimo Burger Quat√°"
   },
   {
     "key": "J058",
@@ -454,6 +454,5 @@
     "latitude": -23.7153481,
     "longitude": -46.5418926,
     "name": "Madero Container Prestes Maia"
-  },
   }
 ]
