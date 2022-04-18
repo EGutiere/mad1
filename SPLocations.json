@@ -1,0 +1,459 @@
+[
+  {
+    "key": "J043",
+    "latitude": -23.56081,
+    "longitude": -46.67110,
+    "name": "Jeronimo Burger Oscar Freire"
+  },
+  {
+    "key": "0319",
+    "latitude": -23.48830,
+    "longitude": -46.63267,
+    "name": "Madero Container Augusto Tolle"
+  },
+  {
+    "key": "0167",
+    "latitude": -23.51502,
+    "longitude": -46.61693,
+    "name": "Madero SteakHouse Center Norte"
+  },
+  {
+    "key": "0171",
+    "latitude": -23.50329,
+    "longitude": -46.83356,
+    "name": "Madero SteakHouse Shopping Tamboré"
+  },
+  {
+    "key": "0172",
+    "latitude": -23.56352,
+    "longitude": -46.65269,
+    "name": "Madero SteakHouse Cidade São Paulo"
+  },
+  {
+    "key": "J041",
+    "latitude": -23.69251,
+    "longitude": -46.55088,
+    "name": "Madero SteakHouse Shopping Metropole"
+  },
+  {
+    "key": "0173",
+    "latitude": -23.62109,
+    "longitude": -46.69924,
+    "name": "Madero SteakHouse Market Place"
+  },
+  {
+    "key": "0175",
+    "latitude": -23.62004,
+    "longitude": -46.55540,
+    "name": "Madero Container Nazaret"
+  },
+  {
+    "key": "0177",
+    "latitude": -23.61026,
+    "longitude": -46.67742,
+    "name": "Madero Container Santo Amaro"
+  },
+  {
+    "key": "0178",
+    "latitude": -23.56564,
+    "longitude": -46.50490,
+    "name": "Madero SteakHouse Aricanduva"
+  },
+  {
+    "key": "0179",
+    "latitude": -23.65822,
+    "longitude": -46.69793,
+    "name": "Madero Container Washington Luis"
+  },
+  {
+    "key": "0185",
+    "latitude": -23.57315,
+    "longitude": -46.69562,
+    "name": "Madero SteakHouse Shopping Eldorado"
+  },
+  {
+    "key": "0187",
+    "latitude": -23.62623,
+    "longitude": -46.68819,
+    "name": "Madero SteakHouse Morumbi"
+  },
+  {
+    "key": "0188",
+    "latitude": -23.55933,
+    "longitude": -46.56834,
+    "name": "Madero SteakHouse Analia Franco"
+  },
+  {
+    "key": "0191",
+    "latitude": -23.44357,
+    "longitude": -46.5399074,
+    "name": "Madero SteakHouse Shopping Maia"
+  },
+  {
+    "key": "0192",
+    "latitude": -23.62214,
+    "longitude": -46.70151,
+    "name": "Jeronimo Burger Parque Cidade"
+  },
+  {
+    "key": "0193",
+    "latitude": -23.65351,
+    "longitude": -46.5321106,
+    "name": "Madero Container Padre Anchieta"
+  },
+  {
+    "key": "0194",
+    "latitude": -23.4845991,
+    "longitude": -46.8554294,
+    "name": "Madero Container do Forte Alphaville"
+  },
+  {
+    "key": "0213",
+    "latitude": -23.66953,
+    "longitude": -46.53864,
+    "name": "Madero Container Santo André"
+  },
+  {
+    "key": "0215",
+    "latitude": -23.62566,
+    "longitude": -46.5801609,
+    "name": "Madero SteakHouse São Caetano"
+  },
+  {
+    "key": "0219",
+    "latitude": -23.56111,
+    "longitude": -46.70476,
+    "name": "Madero Container Pinheiros"
+  },
+  {
+    "key": "0220",
+    "latitude": -23.67885,
+    "longitude": -46.55711,
+    "name": "Madero Container Kennedy"
+  },
+  {
+    "key": "0222",
+    "latitude": -23.53957,
+    "longitude": -46.72792,
+    "name": "Madero Container Villa Lobos"
+  },
+  {
+    "key": "0229",
+    "latitude": -23.67857,
+    "longitude": -46.69860,
+    "name": "Madero SteakHouse SP Market"
+  },
+  {
+    "key": "0294",
+    "latitude": -23.54360,
+    "longitude": -46.76306,
+    "name": "Madero SteakHouse União Osasco"
+  },
+  {
+    "key": "0250",
+    "latitude": -23.59533,
+    "longitude": -46.68727,
+    "name": "Madero SteakHouse Vila Olimpia"
+  },
+  {
+    "key": "0252",
+    "latitude": -23.60848,
+    "longitude": -46.75369,
+    "name": "Madero Container Taboão da Serra"
+  },
+  {
+    "key": "0253",
+    "latitude": -23.19966,
+    "longitude": -46.89046,
+    "name": "Madero SteakHouse Jundiaí"
+  },
+  {
+    "key": "0254",
+    "latitude": -23.51595,
+    "longitude": -46.17957,
+    "name": "Madero Container Mogi das Cruzes"
+  },
+  {
+    "key": "0255",
+    "latitude": -23.58135,
+    "longitude": -46.59379,
+    "name": "Madero SteakHouse Mooca"
+  },
+  {
+    "key": "0267",
+    "latitude": -23.58241,
+    "longitude": -46.71261,
+    "name": "Madero Container Francisco Morato"
+  },
+  {
+    "key": "0277",
+    "latitude": -23.45324,
+    "longitude": -46.46936,
+    "name": "Madero Container Sakamoto"
+  },
+  {
+    "key": "0288",
+    "latitude": -23.60245,
+    "longitude": -46.68211,
+    "name": "Madero Container Inês Pereira"
+  },
+  {
+    "key": "0292",
+    "latitude": -23.60495,
+    "longitude": -46.62649,
+    "name": "Madero SteakHouse Shopping Plaza Sul"
+  },
+  {
+    "key": "0293",
+    "latitude": -23.58440,
+    "longitude": -46.67508,
+    "name": "Madero SteakHouse Brascan"
+  },
+  {
+    "key": "0296",
+    "latitude": -23.17608,
+    "longitude": -46.90892,
+    "name": "Madero Container Jundiaí"
+  },
+  {
+    "key": "0305",
+    "latitude": -23.62452,
+    "longitude": -46.73591,
+    "name": "Madero Container Vila Andrade"
+  },
+  {
+    "key": "0312",
+    "latitude": -23.49276,
+    "longitude": -46.84972,
+    "name": "Madero SteakHouse Amazonia"
+  },
+  {
+    "key": "0320",
+    "latitude": -23.18847,
+    "longitude": -46.58402,
+    "name": "Madero Container Calabresa"
+  },
+  {
+    "key": "0322",
+    "latitude": -23.54870,
+    "longitude": -46.56770,
+    "name": "Madero Container Azevedo Soares"
+  },
+  {
+    "key": "0323",
+    "latitude": -23.59932,
+    "longitude": -46.70853,
+    "name": "Madero Container Morumbi Shopping"
+  },
+  {
+    "key": "H005",
+    "latitude": -23.18787,
+    "longitude": -46.58402,
+    "name": "Jeronimo Track Atibaia Calabresa"
+  },
+  {
+    "key": "J005",
+    "latitude": -23.55933,
+    "longitude": -46.56834,
+    "name": "Jeronimo Burger Analia Franco"
+  },
+  {
+    "key": "J010",
+    "latitude": -23.66915,
+    "longitude": -46.53392,
+    "name": "Jeronimo Burger ABC Santo André"
+  },
+  {
+    "key": "J012",
+    "latitude": -23.52263,
+    "longitude": -46.66904,
+    "name": "Jeronimo Burger Shopping West Plaza"
+  },
+  {
+    "key": "J014",
+    "latitude": -23.64665,
+    "longitude": -46.53978,
+    "name": "Jeronimo Track Paineiras"
+  },
+  {
+    "key": "J016",
+    "latitude": -23.55454,
+    "longitude": -46.66182,
+    "name": "Jeronimo Burger Habitat"
+  },
+  {
+    "key": "J019",
+    "latitude": -23.54171,
+    "longitude": -46.57662,
+    "name": "Jeronimo Burger Shopping Tatuapé"
+  },
+  {
+    "key": "J023",
+    "latitude": -23.64102,
+    "longitude": -46.72731,
+    "name": "Jeronimo Track Panamby"
+  },
+  {
+    "key": "J027",
+    "latitude": -23.59380,
+    "longitude": -46.68364,
+    "name": "Jeronimo Burger Ramos Batista"
+  },
+  {
+    "key": "J032",
+    "latitude": -23.61568,
+    "longitude": -46.73206,
+    "name": "Jeronimo Track Giovanni Gronchi"
+  },
+  {
+    "key": "J037",
+    "latitude": -23.66538,
+    "longitude": -46.46039,
+    "name": "Jeronimo Burger Shopping Maua Plaza"
+  },
+  {
+    "key": "J040",
+    "latitude": -23.50329,
+    "longitude": -46.83356,
+    "name": "Jeronimo Burger Shopping Tamboré"
+  },
+  {
+    "key": "J044",
+    "latitude": -23.71212,
+    "longitude": -46.55154,
+    "name": "Jeronimo Track Tenente Salles"
+  },
+  {
+    "key": "J048",
+    "latitude": -23.60255,
+    "longitude": -46.65798,
+    "name": "Jeronimo Burger Açoce"
+  },
+  {
+    "key": "J049",
+    "latitude": -23.54658,
+    "longitude": -46.63863,
+    "name": "Jeronimo Burger Shopping Light"
+  },
+  {
+    "key": "J051",
+    "latitude": -23.67857,
+    "longitude": -46.69860,
+    "name": "Jeronimo Burger SP Market"
+  },
+  {
+    "key": "J052",
+    "latitude": -23.56581,
+    "longitude": -46.65080,
+    "name": "Jeronimo Burger Shopping Top Center"
+  },
+  {
+    "key": "J053",
+    "latitude": -23.58386,
+    "longitude": -46.64163,
+    "name": "Jeronimo Burger Vila Mariana"
+  },
+  {
+    "key": "J055",
+    "latitude": -23.59732,
+    "longitude": -46.67973,
+    "name": "Jeronimo Burger Quatá"
+  },
+  {
+    "key": "J058",
+    "latitude": -23.61965,
+    "longitude": -46.65653,
+    "name": "Jeronimo Burger Baideirantes"
+  },
+  {
+    "key": "J059",
+    "latitude": -23.55527,
+    "longitude": -46.68975,
+    "name": "Jeronimo Burger Vila Madalena"
+  },
+  {
+    "key": "J062",
+    "latitude": -23.56287,
+    "longitude": -46.67836,
+    "name": "Jeronimo Burger Henrique Schaumann"
+  },
+  {
+    "key": "J063",
+    "latitude": -23.51194,
+    "longitude": -46.85392,
+    "name": "Jeronimo Burger Shopping Barueri"
+  },
+  {
+    "key": "J064",
+    "latitude": -23.54975,
+    "longitude": -46.55985,
+    "name": "Jeronimo Burger Monte Serrat"
+  },
+  {
+    "key": "J065",
+    "latitude": -23.65240,
+    "longitude": -46.68747,
+    "name": "Jeronimo Burger Washington Luis"
+  },
+  {
+    "key": "J066",
+    "latitude": -23.53260,
+    "longitude": -46.45054,
+    "name": "Jeronimo Burger Itaquera"
+  },
+  {
+    "key": "J067",
+    "latitude": -23.63455,
+    "longitude": -46.64295,
+    "name": "Jeronimo Burger Jabaquara"
+  },
+  {
+    "key": "S003",
+    "latitude": -23.52512,
+    "longitude": -46.54681,
+    "name": "Jeronimo Burger Penha"
+  },
+  {
+    "key": "J042",
+    "latitude": -23.48699,
+    "longitude": -46.54936,
+    "name": "Jeronimo Burger Guarulhos"
+  },
+  {
+    "key": "J021",
+    "latitude": -23.49755,
+    "longitude": -46.84627,
+    "name": "Jeronimo Track Alphaville"
+  },
+  {
+    "key": "0235",
+    "latitude": -23.54360,
+    "longitude": -46.76306,
+    "name": "Madero Container Patio Osasco"
+  },
+  {
+    "key": "0309",
+    "latitude": -23.64829,
+    "longitude": -46.53208,
+    "name": "Jeronimo Burger Shopping Gran Plaza"
+  },
+  {
+    "key": "0186",
+    "latitude": -23.58656,
+    "longitude": -46.67699,
+    "name": "Jeronimo Burger Itaim"
+  },
+  {
+    "key": "J077",
+    "latitude": -23.5656417,
+    "longitude": -46.5049037,
+    "name": "Jeronimo Burger Aricanduva"
+  },
+  {
+    "key": "0257",
+    "latitude": -23.7153481,
+    "longitude": -46.5418926,
+    "name": "Madero Container Prestes Maia"
+  },
+  }
+]
